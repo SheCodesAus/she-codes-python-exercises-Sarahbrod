@@ -106,14 +106,27 @@
 
 
 # Q4
-# name = input("Sarah")
-Ellen = 120
-Dan = 50
-Tom = 191
 
-Rider = int(input("Enter your name: "))
-height = int(input("Enter your height: "))
-if Ellen and Dan and Tom > 120:
-    print("Hop on!")
-else:
-    print("Sorry, not today :(")
+# Rider = input("Please enter your name: ")
+# height = int(input("Please enter your height: "))
+# if height > 120:
+#     print("Hop on", Rider, "!")
+# else:
+#     print("Sorry, not today ", Rider, " :(")
+
+
+# Q5
+# username = input("Please enter your username: ")
+# password = input("Please enter your password: ")
+# if username == "fleur" and password == "password123":
+#     print("Correct!")
+# else:
+#     print("Incorrect!")
+
+
+# # Q6
+# user_email = input("Please enter your email: ")
+# if "@" in user_email and "." in user_email:
+#     print("Valid!")
+# else:
+#     print("Invalid!")
